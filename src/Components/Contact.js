@@ -10,7 +10,7 @@ function Contact() {
 
         <div className='hero'>
         <div className='content'>
-            <h1>find the perfect product</h1>
+            <h1>Perfect product</h1>
             <div className='search-text'>Search the largest collection of fashion items</div>
     
           <form className='search'>
